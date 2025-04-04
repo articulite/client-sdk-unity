@@ -1,0 +1,76 @@
+Build output is being logged to build_android_20250404_063129.log
+Building LiveKit WebRTC - Android
+Arch: arm64
+Profile: release
+auth(254) _get_luci_auth_token:git-credential-luci failed: Command 'git-credential-luci get' returned non-zero exit status 1
+not running with a service account and not logged in
+
+If you are running this in a development environment, you can log in by running:
+
+git credential-luci login
+
+​
+
+auth(254) _get_luci_auth_token:git-credential-luci failed: Command 'git-credential-luci get' returned non-zero exit status 1
+not running with a service account and not logged in
+
+If you are running this in a development environment, you can log in by running:
+
+git credential-luci login
+
+​
+
+auth(254) _get_luci_auth_token:git-credential-luci failed: Command 'git-credential-luci get' returned non-zero exit status 1
+not running with a service account and not logged in
+
+If you are running this in a development environment, you can log in by running:
+
+git credential-luci login
+
+​
+
+auth(254) _get_luci_auth_token:git-credential-luci failed: Command 'git-credential-luci get' returned non-zero exit status 1
+not running with a service account and not logged in
+
+If you are running this in a development environment, you can log in by running:
+
+git credential-luci login
+
+​
+
+auth(254) _get_luci_auth_token:git-credential-luci failed: Command 'git-credential-luci get' returned non-zero exit status 1
+not running with a service account and not logged in
+
+If you are running this in a development environment, you can log in by running:
+
+git credential-luci login
+
+​
+
+auth(254) _get_luci_auth_token:git-credential-luci failed: Command 'git-credential-luci get' returned non-zero exit status 1
+not running with a service account and not logged in
+
+If you are running this in a development environment, you can log in by running:
+
+git credential-luci login
+
+​
+
+auth(254) _get_luci_auth_token:git-credential-luci failed: Command 'git-credential-luci get' returned non-zero exit status 1
+not running with a service account and not logged in
+
+If you are running this in a development environment, you can log in by running:
+
+git credential-luci login
+
+​
+
+auth(254) _get_luci_auth_token:git-credential-luci failed: Command 'git-credential-luci get' returned non-zero exit status 1
+not running with a service account and not logged in
+
+If you are running this in a development environment, you can log in by running:
+
+git credential-luci login
+
+​
+
